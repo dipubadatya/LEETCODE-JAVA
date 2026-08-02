@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,4 +91,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
