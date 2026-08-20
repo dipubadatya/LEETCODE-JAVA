@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0704-binary-search) |
 | [0853-car-fleet](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0853-car-fleet) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0981-time-based-key-value-store) |
@@ -143,4 +146,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/dipubadatya/LEETCODE-JAVA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
